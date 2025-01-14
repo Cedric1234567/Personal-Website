@@ -360,7 +360,7 @@ section{
 }
 
 .about-pic:hover {
-    content: url('images/adventuregame.jpg'); /* Replace the image on hover */
+    content: url('images/mefoot.JPG'); /* Replace the image on hover */
     transform: scale(1.05); /* Optional: Slight zoom effect on hover */
     width: 350px;
     height: 600px;
