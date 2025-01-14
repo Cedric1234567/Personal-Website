@@ -564,6 +564,7 @@ article{
     position: relative;
     padding-top: 80px;
     height: min-content;
+    
 }
 
 .contact-info-upper-container{
@@ -601,4 +602,11 @@ article{
 
 .fa-envelope, .fa-linkedin{
     font-size: larger;
+}
+
+/*FOOTER*/
+footer p{
+    text-align: center;
+    margin-bottom: 2rem;
+    color: grey;
 }
